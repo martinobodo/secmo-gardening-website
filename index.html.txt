@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--head element for first page which includes meta charset UTF-9 which an HTML tag 
+that makes it possible to use emojis and other characters that aren't in the traditional 
+ASCII character set on my webpage-->
+
+<!--The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by
+ the browser. -->
+
+<!--A meta description is an HTML element that provides a brief summary of a webpage-->
+
+<!--The meta keyword tag is used to describe the keywords you want to rank for-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Secmo is a gardening business based in Jump Barnsley.We specialize in Fencing, Grass Cutting, Plant Care, 
+		 Patio and Brickwork cleaning, Hedgecutting and general garden maintainance.">
+    <meta name="keywords" content="Gardener,Hedgecutting,Fencing,Grass Cutting,Jetwashing" />
+    <meta name="author" content="Martin Obodo" />
+    <link rel="stylesheet" type="text/css" href="style.css" title="gardenservicewebsite" media="screen,projection" />
+    <title>secmo gardening website</title>
+</head>
